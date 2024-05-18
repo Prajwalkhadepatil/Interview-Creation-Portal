@@ -6,8 +6,8 @@ error message if:
 a. Any of the participants is not available during the scheduled time (i.e, has
 another interview scheduled)
 b. No of participants is less than 2
-2. An interviews list page where admin can see all the upcoming interviews.
-3. An interview edit page where admin can edit the created interview with the same
+3. An interviews list page where admin can see all the upcoming interviews.
+4. An interview edit page where admin can edit the created interview with the same
 validations as on the creation page.
 
 ## Technologies Used
